@@ -9,6 +9,7 @@ nstxout                 = 5000      ; save coordinates every 10.0 ps
 nstvout                 = 0         ; don`t save velocities
 nstenergy               = 5000      ; save energies every 10.0 ps
 nstlog                  = 5000      ; update log file every 10.0 ps
+nstxout-compressed      = 100      	; save compressed coordinates every 0.2 ps
 ; Bond parameters
 continuation            = yes       ; Restarting after NVT 
 constraint_algorithm    = lincs     ; holonomic constraints 

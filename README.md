@@ -15,10 +15,12 @@ Done by Nikita Vyatkin
 
 ## Results
 ### RMSF
-The root-mean-square-fluctuation (RMSF) is used to determine the movability weights
-![RMSF](presentation/rmsf_80_ns.png)
+The root-mean-square-fluctuation (RMSF) is used to determine the movability weights.
+
+![RMSF](presentation/rmsf_80ns.png)
 
 ### wRMSD
 Smaller wRMSD values are indicative of a more similar behavior of the humanized candidate to the murine antibody.
+
 ![wRMSD density](presentation/wRMSD_density.png)
 ![wRMSD](presentation/wRMSD_plot.png)

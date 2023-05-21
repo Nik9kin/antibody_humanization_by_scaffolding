@@ -1,2 +1,13 @@
 *.itp
 *.log
+*.tpr
+*.ndx
+*.trr
+*.xtc
+*.cpt
+*.edr
+*.gro
+*.mdp
+
+*.lock
+*.npz
